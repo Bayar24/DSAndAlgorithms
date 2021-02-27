@@ -1,0 +1,13 @@
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\bin\Debug\netcoreapp3.1\03Queue.exe
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\bin\Debug\netcoreapp3.1\03Queue.deps.json
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\bin\Debug\netcoreapp3.1\03Queue.runtimeconfig.json
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\bin\Debug\netcoreapp3.1\03Queue.runtimeconfig.dev.json
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\bin\Debug\netcoreapp3.1\03Queue.dll
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\bin\Debug\netcoreapp3.1\03Queue.pdb
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\obj\Debug\netcoreapp3.1\03Queue.csprojAssemblyReference.cache
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\obj\Debug\netcoreapp3.1\03Queue.AssemblyInfoInputs.cache
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\obj\Debug\netcoreapp3.1\03Queue.AssemblyInfo.cs
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\obj\Debug\netcoreapp3.1\03Queue.csproj.CoreCompileInputs.cache
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\obj\Debug\netcoreapp3.1\03Queue.dll
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\obj\Debug\netcoreapp3.1\03Queue.pdb
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\03Queue\obj\Debug\netcoreapp3.1\03Queue.genruntimeconfig.cache

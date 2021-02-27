@@ -1,0 +1,13 @@
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\bin\Debug\netcoreapp3.1\01LinkedList.exe
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\bin\Debug\netcoreapp3.1\01LinkedList.deps.json
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\bin\Debug\netcoreapp3.1\01LinkedList.runtimeconfig.json
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\bin\Debug\netcoreapp3.1\01LinkedList.runtimeconfig.dev.json
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\bin\Debug\netcoreapp3.1\01LinkedList.dll
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\bin\Debug\netcoreapp3.1\01LinkedList.pdb
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\obj\Debug\netcoreapp3.1\01LinkedList.csprojAssemblyReference.cache
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\obj\Debug\netcoreapp3.1\01LinkedList.AssemblyInfoInputs.cache
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\obj\Debug\netcoreapp3.1\01LinkedList.AssemblyInfo.cs
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\obj\Debug\netcoreapp3.1\01LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\obj\Debug\netcoreapp3.1\01LinkedList.dll
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\obj\Debug\netcoreapp3.1\01LinkedList.pdb
+C:\Users\BayarByambadoo\source\repos\DsAndAlgos\01LinkedList\obj\Debug\netcoreapp3.1\01LinkedList.genruntimeconfig.cache
