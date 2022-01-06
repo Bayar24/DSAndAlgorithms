@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Learning\\DSAndAlgorithms\\DsAndAlgos\\01BinarySearch\\01BinarySearch.csproj": {}
+    "D:\\Projects\\DSAndAlgorithms\\DsAndAlgos\\01BinarySearch\\01BinarySearch.csproj": {}
   },
   "projects": {
-    "C:\\Learning\\DSAndAlgorithms\\DsAndAlgos\\01BinarySearch\\01BinarySearch.csproj": {
+    "D:\\Projects\\DSAndAlgorithms\\DsAndAlgos\\01BinarySearch\\01BinarySearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Learning\\DSAndAlgorithms\\DsAndAlgos\\01BinarySearch\\01BinarySearch.csproj",
+        "projectUniqueName": "D:\\Projects\\DSAndAlgorithms\\DsAndAlgos\\01BinarySearch\\01BinarySearch.csproj",
         "projectName": "01BinarySearch",
-        "projectPath": "C:\\Learning\\DSAndAlgorithms\\DsAndAlgos\\01BinarySearch\\01BinarySearch.csproj",
-        "packagesPath": "C:\\Users\\BayarByambadoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Learning\\DSAndAlgorithms\\DsAndAlgos\\01BinarySearch\\obj\\",
+        "projectPath": "D:\\Projects\\DSAndAlgorithms\\DsAndAlgos\\01BinarySearch\\01BinarySearch.csproj",
+        "packagesPath": "C:\\Users\\bayar\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DSAndAlgorithms\\DsAndAlgos\\01BinarySearch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BayarByambadoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bayar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
